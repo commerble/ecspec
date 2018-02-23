@@ -18,7 +18,7 @@
 
 ## 目次
 - ECについて
-- [受注ステータスについて](../spec/OrderStatus.md)
+- [受注ステータスについて](../ecspec/specs/OrderStatus.md)
 - 商品について
 - 注文について
 - 顧客情報について
