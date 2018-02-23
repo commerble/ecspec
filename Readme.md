@@ -17,16 +17,14 @@
 
 
 ## 目次
-- ECについて
+- [ECについて](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
 - [受注ステータスについて](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
-- 商品について
-- 注文について
-- 顧客情報について
-- 連携(基幹、店舗POS、WMS)
-- 多モール連携、CRM連携
-- カスタム機能構築、データ連携
-- 継続的な業務改善サービス
-- 倉庫業務の改善
+- [商品について](https://github.com/commerble/ecspec/blob/master/specs/Product.md)
+- [注文について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
+- [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
+- [基幹連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
+- [多モール連携](https://github.com/commerble/ecspec/blob/master/specs/Mall.md)
+- [倉庫連携](https://github.com/commerble/ecspec/blob/master/specs/WMS.md)
 
 
 ## 今後のメンテナンス
