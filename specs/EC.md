@@ -22,3 +22,7 @@ ECには以下のように多数の事業形態が存在する。
 - 在庫販売
 - メーカー発注
 - 受注生産
+
+
+## 目次に戻る
+- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
