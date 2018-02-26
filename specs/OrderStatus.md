@@ -10,8 +10,7 @@ ECにおける主要な業務が発生するフローとなる。
 
 一般的でシンプルなフローをベースに紹介する。
 
-
-「画像」
+![受注ステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/media/orderstatus.jpg)
 
 
 ## 注文確認
