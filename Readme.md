@@ -17,7 +17,7 @@
 
 ## 目次
 - [ECについて](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
-- [受注ステータスについて](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
+- [受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
 - [商品について](https://github.com/commerble/ecspec/blob/master/specs/Product.md)
 - [注文について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
 - [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
