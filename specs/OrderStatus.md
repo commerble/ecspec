@@ -115,3 +115,7 @@ ECサイトで物が売れたからといって、直接商品が確保され、
 
 ## 目次に戻る
 - [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+
+
+
+
