@@ -17,6 +17,7 @@
 - [受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
 - [商品について](https://github.com/commerble/ecspec/blob/master/specs/Product.md)
 - [注文について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
+- [支払い方法について](https://github.com/commerble/ecspec/blob/master/specs/Payment.md)
 - [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
 - [基幹連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
 - [多モール連携](https://github.com/commerble/ecspec/blob/master/specs/Mall.md)
