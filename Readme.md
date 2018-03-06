@@ -20,8 +20,8 @@
 - [支払い方法について](https://github.com/commerble/ecspec/blob/master/specs/Payment.md)
 - [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
 - [基幹連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
-- [多モール連携](https://github.com/commerble/ecspec/blob/master/specs/Mall.md)
 - [倉庫連携](https://github.com/commerble/ecspec/blob/master/specs/WMS.md)
+- [他モール連携](https://github.com/commerble/ecspec/blob/master/specs/Mall.md)
 
 
 ## 今後のメンテナンス
