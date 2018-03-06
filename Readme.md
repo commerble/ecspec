@@ -15,13 +15,12 @@
 ## 目次
 - [ECについて](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
 - [受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
-- [受注前(注文)について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
+- [受注前(カート注文)について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
 - [支払い方法について](https://github.com/commerble/ecspec/blob/master/specs/Payment.md)
 - [商品について](https://github.com/commerble/ecspec/blob/master/specs/Product.md)
 - [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
-- [倉庫連携](https://github.com/commerble/ecspec/blob/master/specs/WMS.md)
+- [倉庫(WMS)連携](https://github.com/commerble/ecspec/blob/master/specs/WMS.md)
 - [基幹連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
-- [他モール連携](https://github.com/commerble/ecspec/blob/master/specs/Mall.md)
 
 
 ## 今後のメンテナンス
