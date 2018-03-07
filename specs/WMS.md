@@ -1,7 +1,7 @@
 # 倉庫(WMS)連携
 WMSとの連携について、よくある連携を記載する。
 
-![WMS連携](https://github.com/commerble/ecspec/blob/master/specs/media/wms.jpg)
+![倉庫(WMS)連携](https://github.com/commerble/ecspec/blob/master/specs/media/wms.jpg)
 
 
 ## 商品連携
