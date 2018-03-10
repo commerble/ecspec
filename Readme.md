@@ -1,7 +1,7 @@
 ![自社ECの仕様を学ぼう](https://github.com/commerble/ecspec/blob/master/specs/media/title.jpg)
 
 
-# 自社ECの仕様を学ぼう
+# :star:自社ECの仕様を学ぼう
 自社ECをカスタムで構築する際に必要な、業務の精度向上につなげる仕様、ノウハウを「EC仕様を学ぼう」としてGithubに公開します。自社EC業務に携わるEC担当者からEC開発者にとっての、要件定義から設計、運用フェーズの知見として参考資料になることを目指しています。
 
 ## 概要
@@ -16,7 +16,7 @@
 ## 目次
 - [ECについて](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
 - [受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
-- [受注前(カート注文)について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
+- [カート注文(受注するまで)について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
 - [支払い方法について](https://github.com/commerble/ecspec/blob/master/specs/Payment.md)
 - [商品について](https://github.com/commerble/ecspec/blob/master/specs/Product.md)
 - [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
