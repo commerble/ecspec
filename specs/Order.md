@@ -86,3 +86,8 @@
 ### オプション(建材EC例)
 - 荷受け担当者、出荷証明書有無、搬入制限
 
+## 目次に戻る
+
+
+- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+

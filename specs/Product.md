@@ -1,4 +1,4 @@
-# 商品
+# 商品について
 
 ## 基本仕様
 ![商品基本仕様](https://github.com/commerble/ecspec/blob/master/specs/media/product.jpg)
@@ -88,4 +88,9 @@
 - 仕入れ価格
 - 販売単位記号(個、本、冊)
 
+
+## 目次に戻る
+
+
+- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
 
