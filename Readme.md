@@ -33,17 +33,20 @@
 現時点では企業からの公開となっていますが、賛同してくださる方が増えた場合はコミュニティとしての公開を考えています。
 賛同してくださる方のコメントやご指摘、Pull requests を待っています。
 
-
-## 会社概要
+## 執筆者について
 - 名称：株式会社Commerble　(コマーブル)
-- 設立年月：2014年9月
-- 事業内容：EC業務特化型PaaSの開発と提供
-- 代表者：橋本圭一（はしもと・けいいち）
-- 所在地：〒103-0014 東京都中央区日本橋蠣殻町1-12-7 日本橋KOIビル 5F
-- URL：https://www.commerble.com/
-
-
-## 問い合わせ
-- 株式会社Commerble
 - 担当者：橋本圭一（はしもと・けいいち）
 - MAIL：info@commerble.com
+- 設立年月：2014年9月
+- 事業内容：EC業務特化型PaaSの開発と提供
+- 所在地：〒103-0014 東京都中央区日本橋蛎殻町1-12-7 日本橋KOIビル 5F
+- URL：https://www.commerble.com/
+
+## ライセンス
+GPL v2 で公開します。GPL v2 については以下のURLに詳しく書かれています。
+- [GPL v2 について](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.ja.html#WhatDoesGPLStandFor)
+
+
+
+
+
