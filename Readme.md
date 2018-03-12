@@ -13,7 +13,7 @@
 そういう業界であれば、遠い未来に自分の子供がこの業界に関わったときにも、人力ではなく知恵で対応する幸福な業界になっていると考えます。
 
 
-## 目次
+## 目次(要件、仕様編)
 - [自社ECを取り巻く要素](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
 - [受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
 - [カート注文(受注するまで)について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
@@ -23,6 +23,11 @@
 - [在庫について](https://github.com/commerble/ecspec/blob/master/specs/Stock.md)
 - [倉庫(WMS)連携](https://github.com/commerble/ecspec/blob/master/specs/WMS.md)
 - [基幹システム連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
+
+
+## 目次(システム編)
+- 継続的にECを改善していくにはどうしたらよいのか(TODO)
+- 他システム連携の鉄則(TODO)
 
 
 ## 今後のメンテナンス
