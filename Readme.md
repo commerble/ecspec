@@ -2,7 +2,7 @@
 
 
 # :star:自社ECの仕様を学ぼう
-自社ECをカスタムで構築する際に必要な、業務の精度向上につなげる仕様、ノウハウを「EC仕様を学ぼう」としてGithubに公開します。自社EC業務に携わるEC担当者からEC開発者にとっての、要件定義から設計、運用フェーズの知見として参考資料になることを目指しています。
+自社ECをカスタムで構築する際に必要な、業務の精度向上につなげる仕様、ノウハウを「EC仕様を学ぼう」としてGitHubに公開します。自社EC業務に携わるEC担当者からEC開発者にとっての、要件定義から設計、運用フェーズの知見として参考資料になることを目指しています。
 
 ## 概要
 毎年急速な成長を遂げるEC業界の成長に対して、そのEC業界の仕様や知見というものは常時発展しているため、これまであまりまとめてこられませんでした。たまにセミナーや記事になる断片的な情報や、伝え聞いた事例をもとに何となく真似をしているという企業も少なくありません。
@@ -14,7 +14,7 @@
 
 
 ## 目次
-- [ECについて](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
+- [自社ECを取り巻く要素](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
 - [受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
 - [カート注文(受注するまで)について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
 - [支払い方法について](https://github.com/commerble/ecspec/blob/master/specs/Payment.md)
@@ -22,7 +22,7 @@
 - [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
 - [在庫について](https://github.com/commerble/ecspec/blob/master/specs/Stock.md)
 - [倉庫(WMS)連携](https://github.com/commerble/ecspec/blob/master/specs/WMS.md)
-- [基幹連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
+- [基幹システム連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
 
 
 ## 今後のメンテナンス
