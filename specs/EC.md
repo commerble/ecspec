@@ -68,7 +68,7 @@ Googleの検索結果に表示されるテキスト広告やGoogleショッピ�
 
 ## EC業務
 ### コールセンター
-IVR(※)を使って、電話番号をもとに顧客情報を引き出すような連携をする場合がある。
+IVR(Interactive Voice Response System※)を使って、電話番号をもとに顧客情報を引き出すような連携をする場合がある。
 顧客の問い合わせを受けるには、顧客の情報(個人情報、注文履歴、問い合わせ履歴、FAQ、基幹システムの情報、顧客に代わってEC注文を行ったり、キャンセルする機能)等を組み合わせる必要がある。
 
 ### 会員サポート
@@ -144,10 +144,10 @@ POS(Point Of Sale)は、店舗で利用されるレジ端末。商品の価格�
 
 
 ## 用語
-- [CRM](https://github.com/commerble/ecspec/blob/master/Readme.md)
-- [オウンドメディア](https://github.com/commerble/ecspec/blob/master/Readme.md)
-- [CMS](https://github.com/commerble/ecspec/blob/master/Readme.md)
-- [IVR](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [CRM](https://ja.wikipedia.org/wiki/%E9%A1%A7%E5%AE%A2%E9%96%A2%E4%BF%82%E7%AE%A1%E7%90%86)
+- [オウンドメディア](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%83%B3%E3%83%89%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2)
+- [CMS](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
+- [IVR](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%8B%95%E9%9F%B3%E5%A3%B0%E5%BF%9C%E7%AD%94%E8%A3%85%E7%BD%AE)
 
 
 ## 目次に戻る
