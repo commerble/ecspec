@@ -55,7 +55,15 @@
 GPL v2 で公開します。GPL v2 については以下のURLに詳しく書かれています。
 - [GPL v2 について](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.ja.html#WhatDoesGPLStandFor)
 
+## コントリビューション
+ISSUEチケットやPRでぜひご参加ください。
 
+誤字脱字から、補足説明や議論に取り上げたいことなど、些細なことからディープなことまで様々なコントリビューションをお待ちしております。
+
+## スペシャルサンクス
+コントリビューターの方々に最大の感謝をこめて。
+- ahf0124
+- hamamotsu
 
 
 
