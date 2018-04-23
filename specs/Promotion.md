@@ -1,6 +1,6 @@
 # :blush:売上を伸ばすには
 リリース後売り上げを伸ばすためにやること。
-項目が多岐にわたるために、今後分割する予定です。
+本稿は、現在書き途中です。また、項目が多岐にわたるために、今後分割する予定です。
 
 ![売上を伸ばすには](https://github.com/commerble/ecspec/blob/master/specs/media/promotion.jpg)
 
