@@ -34,6 +34,10 @@
 - 他システム連携の鉄則(TODO)
 
 
+## 目次(運用編)
+- [売上を伸ばすには](https://github.com/commerble/ecspec/blob/master/specs/Promotion.md)
+
+
 ## 今後のメンテナンス
 「EC業務特化型クラウド」を提供する株式会社Commerbleは、設立後3年間での30件超にわたる自社EC構築事例をもとに
 これまで受付てきたカスタム部分を「自社EC仕様まとめ」として公開します。
