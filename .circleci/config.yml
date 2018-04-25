@@ -52,15 +52,13 @@ workflows:
       - build:
           filters:
             branches:
-              ignore:
-                - gh-pages
+              only: book
       - publish:
           requires:
             - build
           filters:
             branches:
-              ignore:
-                - gh-pages
+              only: book
 
 
 
