@@ -1,6 +1,9 @@
 version: 2
 jobs:
   build:
+    branches:
+      only:
+        - book
     docker:
       - image: circleci/node:7.10
 
