@@ -31,13 +31,14 @@
 
 ## 目次(システム編)
 - [システム負荷対策](https://github.com/commerble/ecspec/blob/master/specs/SystemLoad.md)
-- [セキュリティ対策](https://github.com/commerble/ecspec/blob/master/specs/Seurity.md)
+- [システムセキュリティ対策](https://github.com/commerble/ecspec/blob/master/specs/Seurity.md)
 - 継続的にECを改善していくにはどうしたらよいのか(TODO)
 - 他システム連携の鉄則(TODO)
 
 
 ## 目次(運用編)
 - [売上を伸ばすには](https://github.com/commerble/ecspec/blob/master/specs/Promotion.md)
+- [不正利用と対策](https://github.com/commerble/ecspec/blob/master/specs/UnauthorizedUse.md)
 
 
 ## 今後のメンテナンス
