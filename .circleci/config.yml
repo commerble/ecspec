@@ -1,8 +1,6 @@
 version: 2
 jobs:
   build:
-    branches:
-      only: book
     docker:
       - image: circleci/node:7.10
 
@@ -15,7 +13,7 @@ jobs:
 
       - checkout
 
-      - restore_cache:]
+      - restore_cache:
           keys:
           - v1-dependencies-{{ checksum "package.json" }}
 
@@ -54,13 +52,15 @@ workflows:
       - build:
           filters:
             branches:
-              only: book
+              ignore:
+                - gh-pages
       - publish:
           requires:
             - build
           filters:
             branches:
-              only: book
+              ignore:
+                - gh-pages
 
 
 
