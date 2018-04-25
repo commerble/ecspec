@@ -32,6 +32,7 @@ else
 fi
 
 cp -r _book/* public
+cp -r .circleci public/.circleci
 
 cd public
 git config --global user.name "${GIT_USER_NAME}"
