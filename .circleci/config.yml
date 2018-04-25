@@ -36,11 +36,11 @@ jobs:
     steps:
       - restore_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
-      - run: ./publish.sh
+      - run: chmod +x publish.sh && ./publish.sh
 
 workflows:
   version: 2
-  build-and-deploy:
+  build-and-publish:
     jobs:
       - build:
           filters:
