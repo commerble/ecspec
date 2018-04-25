@@ -10,7 +10,8 @@ if [ -z "${GIT_USER_EMAIL}" ]; then
   exit 1
 fi
 
-ssh-keyscan github.com >> ~/.ssh/known_hosts
+mkdir -p ~/.ssh
+ssh-keyscan -H github.com >> ~/.ssh/known_hosts
 
 GIT_REPO="git@github.com:${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.git"
 
