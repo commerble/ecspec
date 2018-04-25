@@ -3,7 +3,7 @@
 ここにはない独自の対応をしている場合は、是非ご指摘頂きたい。
 
 
-![システム負荷対策](https://github.com/commerble/ecspec/blob/master/specs/media/systemload.jpg)
+![システム負荷対策](media/systemload.jpg)
 
 # システム負荷対策
 
@@ -131,5 +131,5 @@
 
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)
 

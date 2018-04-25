@@ -1,7 +1,7 @@
 # 商品について
 
 ## 基本仕様
-![商品基本仕様](https://github.com/commerble/ecspec/blob/master/specs/media/product.jpg)
+![商品基本仕様](media/product.jpg)
 
 
 ## 在庫、取り寄せ、予約、受注生産、定期の違いで購入フローが異なる
@@ -95,5 +95,5 @@
 ## 目次に戻る
 
 
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)
 

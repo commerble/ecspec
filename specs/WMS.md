@@ -1,7 +1,7 @@
 # :truck:倉庫(WMS)連携
 WMSとの連携について、よくある連携を記載する。
 
-![倉庫(WMS)連携](https://github.com/commerble/ecspec/blob/master/specs/media/wms.jpg)
+![倉庫(WMS)連携](media/wms.jpg)
 
 
 ## 商品連携
@@ -48,4 +48,4 @@ ECで受注したデータをWMSに連携する。連携形式は多様なので
 - 商品Bが単体で売れた場合、商品BとCの在庫を一つずつ減らす必要がある。
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)

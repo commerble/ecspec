@@ -16,4 +16,4 @@ ECには以下のように多数の事業形態が存在する。
 
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)

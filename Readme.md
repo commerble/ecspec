@@ -1,4 +1,4 @@
-![自社ECの仕様を学ぼう](https://github.com/commerble/ecspec/blob/master/specs/media/title.jpg)
+![自社ECの仕様を学ぼう](specs/media/title.jpg)
 
 
 # :star:自社ECの仕様を学ぼう
