@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/commerble/ecspec#readme",
   "devDependencies": {
-    "gh-pages": "^1.1.0",
     "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-advanced-emoji": "^0.2.2"
+    "gitbook-plugin-advanced-emoji": "^0.2.2",
+    "gitbook-plugin-analytics": "^0.2.1",
+    "gitbook-plugin-sitemap-general": "^0.1.1"
   }
 }
