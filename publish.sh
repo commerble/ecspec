@@ -31,7 +31,7 @@ else
   cd ..
 fi
 
-cp _book public 
+cp -r _book/* public
 
 cd public
 git config --global user.name "${GIT_USER_NAME}"
