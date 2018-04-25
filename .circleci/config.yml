@@ -51,12 +51,16 @@ workflows:
     jobs:
       - build:
           filters:
+            tags:
+              ignore: /.*/
             branches:
               only: /book/
       - publish:
           requires:
             - build
           filters:
+            tags:
+              ignore: /.*/
             branches:
               only: /book/
 
