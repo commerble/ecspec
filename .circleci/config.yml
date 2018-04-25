@@ -52,13 +52,13 @@ workflows:
       - build:
           filters:
             branches:
-              only: book
+              only: master
       - publish:
           requires:
             - build
           filters:
             branches:
-              only: book
+              only: master
 
 
 
