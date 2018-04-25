@@ -1,7 +1,5 @@
 #!/bin/bash -eux
 
-cd ~/
-
 if [ -z "${GIT_USER_NAME}" ]; then
   echo "Please set an env var GIT_USER_NAME"
   exit 1
@@ -30,7 +28,7 @@ else
   cd ..
 fi
 
-cp ~/repo/_book ~/public 
+cp _book public 
 
 cd public
 git config --global user.name "${GIT_USER_NAME}"
