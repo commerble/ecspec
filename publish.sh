@@ -33,6 +33,7 @@ fi
 
 cp -r _book/* public
 cp -r .circleci public/.circleci
+touch public/.nojekyll
 
 cd public
 git config --global user.name "${GIT_USER_NAME}"
