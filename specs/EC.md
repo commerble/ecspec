@@ -3,7 +3,7 @@
 主要な要素とその連携を検討し、それぞれの仕様を詰めることによって、安定した質の良いECサイトを作る事が可能であるとともに全体的な事業改善、業務改善を行うことが可能である。
 
 
-![EC全体像](https://github.com/commerble/ecspec/blob/master/specs/media/ecall.jpg)
+![EC全体像](media/ecall.jpg)
 
 
 ## 導線
@@ -105,7 +105,7 @@ POS(Point Of Sale)は、店舗で利用されるレジ端末。商品の価格�
 
 ### 基幹システム連携
 基幹システム連携については、以下で後述する。
-- [基幹システム連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
+- [基幹システム連携](specs/Federation.md)
 
 ### 越境
 越境については日本から送るのか、現地拠点から送るのかで異なる。
@@ -151,4 +151,4 @@ POS(Point Of Sale)は、店舗で利用されるレジ端末。商品の価格�
 
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](Readme.md)

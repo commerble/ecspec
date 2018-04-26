@@ -1,0 +1,26 @@
+{
+  "name": "ecspec",
+  "version": "1.0.0",
+  "description": "general ec specification document.",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build",
+    "publish": "gh-pages -d _book -m 'publish'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commerble/ecspec.git"
+  },
+  "author": "commerble",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/commerble/ecspec/issues"
+  },
+  "homepage": "https://github.com/commerble/ecspec#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-advanced-emoji": "^0.2.2",
+    "gitbook-plugin-analytics": "^0.2.1",
+    "gitbook-plugin-sitemap-general": "^0.1.1"
+  }
+}

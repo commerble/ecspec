@@ -1,7 +1,7 @@
 # :lock:システムセキュリティ対策
 システムセキュリティ対策
 
-![セキュリティ対策](https://github.com/commerble/ecspec/blob/master/specs/media/systemsecurity.jpg)
+![セキュリティ対策](media/systemsecurity.jpg)
 
 # セキュリティ対策
 - システムで対応する事(セキュアなインフラ、セキュアなプログラミング)と運用で対応することに分かれる。
@@ -74,5 +74,5 @@
 
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)
 

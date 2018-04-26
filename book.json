@@ -1,0 +1,11 @@
+{
+    "plugins" : ["advanced-emoji", "sitemap-general", "analytics"],
+    "pluginsConfig": {
+        "sitemap-general": {
+            "prefix": "https://commerble.github.io/ecspec/"
+        },
+        "analytics": {
+            "google": "UA-118171353-1"
+        }
+    }
+}

@@ -15,12 +15,12 @@
 
 それぞれに多様な要件がある。
 
-![受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/media/order.jpg)
+![受注後のステータスフロー](media/order.jpg)
 
 
 ## ①会員(ログイン、新規登録、ゲスト購入）
 - 会員については以下を参照。
-- [会員について](https://github.com/commerble/ecspec/blob/master/specs/Member.md)
+- [会員について](specs/Member.md)
 - 会員IDはどこで管理するか、自社ECか、それ以外のIdp(アイデンティティ・プロバイダ)か。
 - 購入には会員登録が必須か、ゲスト購入も可能とするか。
 - ゲスト購入後に会員登録するような仕様を設けるかなどが検討事項として存在する。
@@ -54,7 +54,7 @@
 
 ## ④支払い方法の選択
 支払い方法については別ページを参照。
-- [支払い方法について](https://github.com/commerble/ecspec/blob/master/specs/Payment.md)
+- [支払い方法について](specs/Payment.md)
 
 
 ## ⑤配送先や配送方法、配送日時の選択
@@ -130,5 +130,5 @@
 ## 目次に戻る
 
 
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)
 

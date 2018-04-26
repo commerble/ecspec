@@ -1,7 +1,7 @@
 # :lock:不正利用と対策
 不正利用と対策
 
-![不正利用と対策](https://github.com/commerble/ecspec/blob/master/specs/media/unauthorizeduse.jpg)
+![不正利用と対策](media/unauthorizeduse.jpg)
 
 # 不正利用と対策
 
@@ -20,5 +20,5 @@
 
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)
 

@@ -1,4 +1,4 @@
-![自社ECの仕様を学ぼう](https://github.com/commerble/ecspec/blob/master/specs/media/title.jpg)
+![自社ECの仕様を学ぼう](specs/media/title.jpg)
 
 
 # :star:自社ECの仕様を学ぼう
@@ -59,8 +59,10 @@
 
 
 ## ライセンス
-GPL v2 で公開します。GPL v2 については以下のURLに詳しく書かれています。
-- [GPL v2 について](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.ja.html#WhatDoesGPLStandFor)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+CC BY-SA 4.0 で公開します。CC BY-SA 4.0 については以下のURLに詳しく書かれています。
+- [CC BY-SA 4.0 について](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## コントリビューション
 ISSUEチケットやPRでぜひご参加ください。

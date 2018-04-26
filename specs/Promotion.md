@@ -2,7 +2,7 @@
 リリース後売り上げを伸ばすためにやること。
 本稿は、現在書き途中です。また、項目が多岐にわたるために、今後分割する予定です。
 
-![売上を伸ばすには](https://github.com/commerble/ecspec/blob/master/specs/media/promotion.jpg)
+![売上を伸ばすには](media/promotion.jpg)
 
 
 # 売上を倍増するには
@@ -79,4 +79,4 @@
 
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)

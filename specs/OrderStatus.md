@@ -9,7 +9,7 @@
 
 一般的でシンプルなフローをベースに紹介する。
 
-![受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/media/orderstatus.jpg)
+![受注後のステータスフロー](media/orderstatus.jpg)
 
 ## 1.受注
 ### 受注時の与信
@@ -143,7 +143,7 @@ ECサイトで物が売れたからといって、直接商品が確保され、
 
 
 ## 目次に戻る
-- [目次に戻る](https://github.com/commerble/ecspec/blob/master/Readme.md)
+- [目次に戻る](../Readme.md)
 
 
 
