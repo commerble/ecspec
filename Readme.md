@@ -31,7 +31,7 @@
 
 ## 目次(システム編)
 - [システム負荷対策](https://github.com/commerble/ecspec/blob/master/specs/SystemLoad.md)
-- [システムセキュリティ対策](https://github.com/commerble/ecspec/blob/master/specs/Seurity.md)
+- [システムセキュリティ対策](https://github.com/commerble/ecspec/blob/master/specs/SystemSeurity.md)
 - 継続的にECを改善していくにはどうしたらよいのか(TODO)
 - 他システム連携の鉄則(TODO)
 
