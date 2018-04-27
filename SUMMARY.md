@@ -13,7 +13,7 @@
     - [基幹システム連携](specs/Federation.md)
 * システム編
     - [システム負荷対策](specs/SystemLoad.md)
-    - [システムセキュリティ対策](specs/Seurity.md)
+    - [システムセキュリティ対策](specs/SystemSecurity.md)
 * 運用編
     - [売上を伸ばすには](specs/Promotion.md)
     - [不正利用と対策](specs/UnauthorizedUse.md)
