@@ -18,27 +18,27 @@
 - システム編については執筆中です。
 
 ## 目次(要件、仕様編)
-- [自社ECを取り巻く要素](https://github.com/commerble/ecspec/blob/master/specs/EC.md)
-- [受注後のステータスフロー](https://github.com/commerble/ecspec/blob/master/specs/OrderStatus.md)
-- [カート注文(受注するまで)について](https://github.com/commerble/ecspec/blob/master/specs/Order.md)
-- [支払い方法について](https://github.com/commerble/ecspec/blob/master/specs/Payment.md)
-- [商品について](https://github.com/commerble/ecspec/blob/master/specs/Product.md)
-- [顧客情報について](https://github.com/commerble/ecspec/blob/master/specs/Customer.md)
-- [在庫について](https://github.com/commerble/ecspec/blob/master/specs/Stock.md)
-- [倉庫(WMS)連携](https://github.com/commerble/ecspec/blob/master/specs/WMS.md)
-- [基幹システム連携](https://github.com/commerble/ecspec/blob/master/specs/Federation.md)
+- [自社ECを取り巻く要素](specs/EC.md)
+- [受注後のステータスフロー](specs/OrderStatus.md)
+- [カート注文(受注するまで)について](specs/Order.md)
+- [支払い方法について](specs/Payment.md)
+- [商品について](specs/Product.md)
+- [顧客情報について](specs/Customer.md)
+- [在庫について](specs/Stock.md)
+- [倉庫(WMS)連携](specs/WMS.md)
+- [基幹システム連携](specs/Federation.md)
 
 
 ## 目次(システム編)
-- [システム負荷対策](https://github.com/commerble/ecspec/blob/master/specs/SystemLoad.md)
-- [システムセキュリティ対策](https://github.com/commerble/ecspec/blob/master/specs/SystemSecurity.md)
+- [システム負荷対策](specs/SystemLoad.md)
+- [システムセキュリティ対策](specs/SystemSecurity.md)
 - 継続的にECを改善していくにはどうしたらよいのか(TODO)
 - 他システム連携の鉄則(TODO)
 
 
 ## 目次(運用編)
-- [売上を伸ばすには](https://github.com/commerble/ecspec/blob/master/specs/Promotion.md)
-- [不正利用と対策](https://github.com/commerble/ecspec/blob/master/specs/UnauthorizedUse.md)
+- [売上を伸ばすには](specs/Promotion.md)
+- [不正利用と対策](specs/UnauthorizedUse.md)
 
 
 ## 今後のメンテナンス
