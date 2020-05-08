@@ -65,9 +65,11 @@ CC BY-SA 4.0 で公開します。CC BY-SA 4.0 については以下のURLに詳
 - [CC BY-SA 4.0 について](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## コントリビューション
-ISSUEチケットやPRでぜひご参加ください。
+[ISSUEチケット](https://github.com/commerble/ecspec/issues)や[PR](https://github.com/commerble/ecspec/pulls)でぜひご参加ください。
 
 誤字脱字から、加筆、議論に取り上げたいことなど、些細なことからディープなことまで様々なコントリビューションをお待ちしております。
+
+リポジトリ: [https://github.com/commerble/ecspec/](https://github.com/commerble/ecspec/)
 
 ## スペシャルサンクス
 コントリビュータの方々に心からの感謝をこめて。
